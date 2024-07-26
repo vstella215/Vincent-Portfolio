@@ -1,5 +1,5 @@
 import "./HeroimgStyles.css";
-import IntroImg from "../assets/introImg.png";
+import IntroImg from "../assets/WebsitePortfolio.png";
 import React from 'react';
 import { Link } from "react-router-dom";
 
