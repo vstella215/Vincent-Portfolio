@@ -18,10 +18,12 @@ const Footer = () => {
                         <FaHome size={20}
                             style={{ color: "#fff", marginRight: "2rem" }}
                         />
+                        <h4>
                         <div>
                             <p>123 freedom rd.</p>
                             <p>Pennsylvania</p>
                         </div>
+                        </h4>
                     </div>
                     <div className="phone">
                         <h4>
